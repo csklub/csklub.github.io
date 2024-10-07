@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on csklub</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on csklub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Anthony Nandaa</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 16:13:41 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Re-introducing CSKlub</title>
+      <link>/posts/intro/</link>
+      <pubDate>Mon, 07 Oct 2024 16:13:41 +0300</pubDate>
+      
+      <guid>/posts/intro/</guid>
+      <description>CSKlub is a community of people who are passionate about computer science and technology. We are a group of students who are eager to learn and share our knowledge with others. Our goal is to create a space where people can come together to discuss ideas, collaborate on projects, and explore new technologies. Whether you are a beginner or an expert, we welcome you to join us and be a part of our community.</description>
+      <content>&lt;p&gt;&lt;strong&gt;CSKlub&lt;/strong&gt; is a community of people who are passionate about
+computer science and technology. We are a group of students who
+are eager to learn and share our knowledge with others. Our goal
+is to create a space where people can come together to discuss
+ideas, collaborate on projects, and explore new technologies.
+Whether you are a beginner or an expert, we welcome you to join
+us and be a part of our community.&lt;/p&gt;
+&lt;p&gt;This is an initiative by &lt;a href=&#34;https://bored.black/&#34;&gt;blackbored.&lt;/a&gt; that
+aims to bring together like-minded individuals who are interested
+in taking the craft a notch higher.&lt;/p&gt;
+&lt;p&gt;We are community of &lt;em&gt;life-long learners&lt;/em&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

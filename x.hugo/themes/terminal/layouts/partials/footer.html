@@ -85,7 +85,7 @@ let quotes = [
 let i = (new Date()).getSeconds() % quotes.length
 let quote = quotes[i]
 
-document.querySelector("small#quote").setHTML(`___<br/><em>"${quote.say}"</em> &mdash;&mdash; ${quote.person}`)
+document.querySelector("small#quote").setHTMLUnsafe(`___<br/><em>"${quote.say}"</em> &mdash;&mdash; ${quote.person}`)
 </script>
 
 <!-- Extended footer section-->

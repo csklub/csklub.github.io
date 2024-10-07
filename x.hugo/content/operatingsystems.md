@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Operating Systems"
 date: 2024-10-07T16:02:40+03:00
 ---
-
-## Operating Systems
 
 > Tracking [MIT 6.S081](https://pdos.csail.mit.edu/6.828/2020/schedule.html) together.
 > Check also Berkeley's [CS162](https://cs162.eecs.berkeley.edu/), https://cs162.org/.
